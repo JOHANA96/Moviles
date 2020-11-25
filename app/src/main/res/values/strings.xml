@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Moviles</string>
+    <string name="txtEmail">Digite el Correo</string>
+    <string name="txtClave">Digite la Clave</string>
+    <string name="txtBoton">INICIO</string>
+    <string name="txtOlvidoClave">Olvido la Clave?,</string>
+    <string name="txtRecuperarClave"> Recupera Aquí</string>
+    <string name="txtNoTieneUsuario">"No tiene usuario?, "</string>
+    <string name="txtCrearUsuario">"Crear Usuario"</string>
+    <string name="tienda">Tienda</string>
+    <string name="perfil">Perfil</string>
+    <string name="mapa">Mapa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="imagentienda">Imagen de la tienda</string>
+    <string name="title">Tienda Virtual</string>
+    <string name="descripcion">Venta de elementos tecnologicos</string>
+    <string name="horario">8:00 am - 6:00 pm</string>
+    <string name="linkimagen">Link Imagen</string>
+    <string name="nombre">Nombre de la tienda</string>
+    <string name="descripcionnuevatienda">Descripción</string>
+    <string name="telefono">Numero celular</string>
+    <string name="horariotienda">Horario</string>
+</resources>

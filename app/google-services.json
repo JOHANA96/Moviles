@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "637973769333",
+    "firebase_url": "https://moviles-86c22.firebaseio.com",
+    "project_id": "moviles-86c22",
+    "storage_bucket": "moviles-86c22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637973769333:android:fec00e936a1a9392155c3c",
+        "android_client_info": {
+          "package_name": "com.example.moviles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637973769333-2ge6t9dvailiinh4rounterea57l4iq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdI_sPIQRBRKm4iugx4wRUuJGOQM4YTVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637973769333-2ge6t9dvailiinh4rounterea57l4iq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
